@@ -1,0 +1,13 @@
+{
+  "name": "shanguo-npmregistryserver",
+  "version": "0.0.1",
+  "author": {
+    "name": "dx",
+    "email": "douxing@ceasia.com.cn"
+  },
+  "description": "a place to run npm registry",
+  "dependencies": {
+    "loadbalancer": "~0.9.26",
+    "sinopia": "~1.4.0"
+  }
+}

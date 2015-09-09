@@ -1,0 +1,23 @@
+{
+  "sourcePort": 80,
+  "stickiness": true,
+  "targets": [
+    {
+      "host": "localhost",
+      "port": 1983
+
+    },
+    {
+      "host": "localhost",
+      "port": 1984
+    },
+    {
+      "host": "localhost",
+      "port": 1985
+    },
+    {
+      "host": "localhost",
+      "port": 1986
+    }
+  ]
+}
