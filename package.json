@@ -7,6 +7,7 @@
   },
   "description": "a place to run npm registry",
   "dependencies": {
+    "forever": "0.13.0",
     "loadbalancer": "~0.9.26",
     "sinopia": "~1.4.0"
   }
