@@ -10,5 +10,7 @@
     "forever": "0.13.0",
     "loadbalancer": "~0.9.26",
     "sinopia": "~1.4.0"
+  },
+  "devDependencies": {
   }
 }

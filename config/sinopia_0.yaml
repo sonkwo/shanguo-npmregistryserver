@@ -53,5 +53,5 @@ max_body_size: 50mb
 
 # log settings
 logs:
-  - {type: stdout, format: pretty, level: http}
-  #- {type: file, path: ./sinopia_0.log, level: warn}
+  #- {type: stdout, format: pretty, level: http}
+  - {type: file, path: sinopia_0.log, level: warn}

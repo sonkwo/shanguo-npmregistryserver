@@ -1,6 +1,7 @@
 {
   "sourcePort": 80,
   "stickiness": true,
+  "downgradeToUser": "dx",
   "targets": [
     {
       "host": "localhost",
